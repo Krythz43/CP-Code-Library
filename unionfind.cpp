@@ -26,7 +26,7 @@ using namespace std;
 #define inf INT_MAX
 #define endl '\n'
 
-const int S = 1e5 + 5;
+const int S = 2e5 + 5;
 
 vi parent(S,0),height(S);
 
